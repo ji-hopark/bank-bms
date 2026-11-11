@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">함께 만드는 내일</title><desc id="desc">보라색 배경 위로 자라나는 계단과 작은 별</desc>
+  <rect width="1200" height="320" rx="24" fill="#643f94"/>
+  <path d="M780 320 V255 H870 V195 H960 V135 H1050 V75 H1200 V320Z" fill="#8b65bb"/>
+  <path d="M830 320 V285 H920 V225 H1010 V165 H1100 V105 H1200 V320Z" fill="#ad8ad4"/>
+  <path d="M996 56 L1004 77 L1026 85 L1004 93 L996 114 L988 93 L966 85 L988 77Z" fill="#ffe29b"/>
+  <circle cx="1113" cy="45" r="9" fill="#e3d1ff"/>
+  <text x="70" y="132" fill="#ddc5ff" font-family="sans-serif" font-size="22" letter-spacing="5">GROW TOGETHER</text>
+  <text x="70" y="198" fill="#fff" font-family="sans-serif" font-size="44" font-weight="700">한 걸음씩, 더 나은 내일로</text>
+</svg>

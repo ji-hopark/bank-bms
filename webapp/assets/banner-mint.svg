@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">마음을 전하는 이체</title><desc id="desc">민트 배경 위 두 계좌 사이를 잇는 화살표</desc>
+  <rect width="1200" height="320" rx="24" fill="#d6f5e9"/>
+  <circle cx="1130" cy="300" r="240" fill="#b0e9d3"/>
+  <rect x="798" y="80" width="116" height="162" rx="18" fill="#fff"/><rect x="1020" y="80" width="116" height="162" rx="18" fill="#20775c"/>
+  <path d="M925 161 H1002 M982 141 L1002 161 L982 181" fill="none" stroke="#267e61" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M820 111 H890 M820 130 H870" stroke="#8ccdb5" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1041 111 H1112 M1041 130 H1093" stroke="#9ee5cd" stroke-width="7" stroke-linecap="round"/>
+  <text x="70" y="132" fill="#378568" font-family="sans-serif" font-size="22" letter-spacing="5">TRANSFER WITH CARE</text>
+  <text x="70" y="198" fill="#15563f" font-family="sans-serif" font-size="44" font-weight="700">소중한 마음을 안전하게 전해요</text>
+</svg>

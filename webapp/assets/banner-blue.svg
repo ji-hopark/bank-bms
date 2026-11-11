@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">편안한 금융 생활</title><desc id="desc">푸른 밤하늘 위에 떠 있는 원과 곡선</desc>
+  <rect width="1200" height="320" rx="24" fill="#183e83"/>
+  <circle cx="1050" cy="60" r="180" fill="#2a62b1"/><circle cx="900" cy="265" r="135" fill="#487ed0"/>
+  <path d="M680 320 Q780 30 1200 130" stroke="#9bd4ff" stroke-width="4" fill="none"/>
+  <circle cx="960" cy="140" r="44" fill="#d8f1ff"/><circle cx="1090" cy="234" r="18" fill="#ffc96b"/>
+  <text x="70" y="132" fill="#b8d9ff" font-family="sans-serif" font-size="22" letter-spacing="5">EVERYDAY BANKING</text>
+  <text x="70" y="198" fill="#fff" font-family="sans-serif" font-size="44" font-weight="700">당신의 일상에, 든든한 금융</text>
+</svg>

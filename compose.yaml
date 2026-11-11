@@ -1,0 +1,22 @@
+services:
+  app:
+    build: .
+    environment:
+      SERVICE_NAME: bank-bms
+      DATA_DIR: /data
+      HOME_URL: http://bank-home:8080
+      ACCOUNT_URL: http://bank-account:8080
+      TRANSFER_URL: http://bank-transfer:8080
+      PRODUCT_URL: http://bank-product:8080
+      MYPAGE_URL: http://bank-mypage:8080
+    volumes:
+      - ./webapp:/usr/local/tomcat/webapps/ROOT:ro
+      - ./.runtime:/data
+    networks:
+      default:
+        aliases:
+          - bank-bms
+networks:
+  default:
+    name: nova-retail
+    external: true

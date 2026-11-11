@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "items": {
+    "common.transfer.guide": {
+      "type": "text",
+      "value": "이체 전 받는 분의 계좌번호와 예금주를 다시 확인해 주세요."
+    },
+    "transfer.submit.label": {
+      "type": "text",
+      "value": "이체 내용 확인"
+    },
+    "transfer.fee.guide": {
+      "type": "text",
+      "value": "일반 고객의 이체 수수료는 500원이며, 우수·프리미엄 고객은 면제됩니다."
+    },
+    "notification.transfer.complete": {
+      "type": "text",
+      "value": "{name}님, {amount}원 체험 이체 완료 (수수료 {fee}원). 실제 송금은 이루어지지 않습니다."
+    },
+    "notification.notice.guide": {
+      "type": "text",
+      "value": "이번 달 계좌별 입출금 내역을 조회하고, 조회한 결과를 CSV 파일로 내려받을 수 있습니다."
+    },
+    "transfer.banner.image": {
+      "type": "image",
+      "value": "/assets/banner-mint.svg",
+      "alt": "민트색 배경의 두 계좌를 연결하는 이체 안내"
+    },
+    "home.welcome": {
+      "type": "text",
+      "value": "오늘의 여유가 내일의 가능성이 되도록, NOVA와 함께하세요."
+    },
+    "home.hero.image": {
+      "type": "image",
+      "value": "/assets/banner-blue.svg",
+      "alt": "푸른색 원과 선으로 표현한 편안한 금융 생활"
+    },
+    "product.guide": {
+      "type": "text",
+      "value": "나의 속도에 맞는 저축을 시작해 보세요. 표시된 금리는 체험용 예시입니다."
+    },
+    "product.hero.image": {
+      "type": "image",
+      "value": "/assets/banner-violet.svg",
+      "alt": "보랏빛 원으로 표현한 저축의 성장"
+    },
+    "mypage.notice": {
+      "type": "text",
+      "value": "알림 수신 설정은 이체 결과 알림에도 함께 적용됩니다."
+    }
+  }
+}
